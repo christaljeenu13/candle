@@ -1,7 +1,4 @@
-# Candle
-A static website built for Aromas Company’s product showcase.  
-This project demonstrates GitHub Pages hosting and front-end design for client presentation.
-# Aromas – Handmade Ocean-Inspired Candles
+# Aromas by Anu – Handmade Ocean-Inspired Candles
 
 A premium, modern, and responsive static website for **Aromas by Anu**, featuring handmade scented candles and concrete jars inspired by the calm of the ocean.
 
