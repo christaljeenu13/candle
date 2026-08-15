@@ -217,7 +217,7 @@ a {
 
 /* Hamburger */
 .hamburger {
-  display: none;
+  display: flex;
   flex-direction: column;
   gap: 5px;
   background: none;
